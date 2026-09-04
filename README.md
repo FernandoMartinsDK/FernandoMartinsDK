@@ -84,15 +84,8 @@
 <br clear="both">
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=FernandoMartinsDK&show_icons=true&theme=tokyonight&hide_border=true&count_private=true">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=FernandoMartinsDK&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub stats" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoMartinsDK&layout=compact&theme=tokyonight&hide_border=true">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoMartinsDK&layout=compact&theme=default&hide_border=true" alt="Top languages" />
-  </picture>
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=FernandoMartinsDK&theme=tokyonight&hide_border=true" alt="streak stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=FernandoMartinsDK&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoMartinsDK&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
   <img height="150" src="https://github-readme-activity-graph.vercel.app/graph?username=FernandoMartinsDK&theme=tokyo-night&area=true&hide_border=true" alt="activity graph" />
 </div>
 
