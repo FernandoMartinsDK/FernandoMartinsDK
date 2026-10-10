@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">- Atualmente trabalho na Connect Corp como desenvolvedor web<br>- Tenho uma boa experiência com servidores(🐧e 🪟 ), infraestrutura de rede e harware</p>
+<p align="left">- Atualmente trabalho na Connect Corp como desenvolvedor web<br>- Tenho muita experiência com servidores(🐧e 🪟 ), infraestrutura de rede e harware</p>
 
 ###
 
